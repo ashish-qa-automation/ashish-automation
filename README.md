@@ -1,6 +1,6 @@
 👋 Hi, I'm Ashish
 
-🚀 Automation Test Engineer with strong experience in designing and building scalable automation frameworks for UI and API testing.
+🚀 Senior Automation Test Engineer with 6.5+ years of experience in building and standardizing scalable UI and API automation frameworks.
 I specialize in Java-based automation, CI/CD integration, and improving test reliability and execution speed.
 
 🧪 Automation Skills & Tools
@@ -17,6 +17,8 @@ Page Object Model (POM)
 Utility layers (Waits, Drivers, Configs)
 Retry mechanisms for flaky tests
 Reduced maintenance effort by improving locator strategy & abstraction
+Delivered smoke automation coverage for 50+ business-critical modules, improving regression confidence and release stability
+
 
 🚀 CI/CD & DevOps
 Jenkins
@@ -60,6 +62,11 @@ Strong understanding of:
 SDLC & STLC
 Agile & Scrum
 Test strategy & risk-based testing
+
+## 👥 Leadership & Mentoring
+- Led and mentored automation engineers through pair programming and structured KT sessions
+- Defined scripting guidelines and automation standards across teams
+
 Focus on stable, maintainable, and meaningful automation
 
 📫 Connect With Me
